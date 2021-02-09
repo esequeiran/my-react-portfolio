@@ -22,36 +22,36 @@ const Menu = ({ history }) => {
             <ul className="nav nav-tabs mynav">
 
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/')} to="/">Home
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/')} to="/my-react-portfolio/">Home
                     </Link>
                 </li>
 
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/autobiography')} to="/autobiography">Autobiography</Link>
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/autobiography')} to="/my-react-portfolio/autobiography">Autobiography</Link>
                 </li>
 
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/education')} to="/education">Education</Link>
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/education')} to="/my-react-portfolio/education">Education</Link>
                 </li>
 
 
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/skills')} to="/skills">My skills</Link>
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/skills')} to="/my-react-portfolio/skills">My skills</Link>
                 </li>
 
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/projects')} to="/projects">Web projects</Link>
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/projects')} to="/my-react-portfolio/projects">Web projects</Link>
                 </li>
 
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/experience')} to="/experience">Experience</Link>
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/experience')} to="/my-react-portfolio/experience">Experience</Link>
                 </li>
 
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/achievements')} to="/achievements">Achievements</Link>
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/achievements')} to="/my-react-portfolio/achievements">Achievements</Link>
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link mylink" style={isActive(history, '/interests')} to="/interests">Interests</Link>
+                    <Link className="nav-link mylink" style={isActive(history, '/my-react-portfolio/interests')} to="/my-react-portfolio/interests">Interests</Link>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link mylink" style={{ color: 'white' }} download href={Resume}>

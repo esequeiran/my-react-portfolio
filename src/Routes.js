@@ -11,14 +11,14 @@ import Achievements from './components/Achievements'
 const Routes = () =>{
     return(<BrowserRouter>   
         <Switch>
-            <Route path="/" exact component={Home} />
-            <Route path="/autobiography" exact component={Autobiography}/>
-            <Route path="/education" exact component={Education}/>
-            <Route path="/interests" exact component={Interests}/>
-            <Route path="/skills" exact component={Skills}/>
-            <Route path="/projects" exact component={Projects}/>
-            <Route path="/experience" exact component={Experience}/>
-            <Route path="/achievements" exact component={Achievements}/>
+            <Route path="/my-react-portfolio/" exact component={Home} />
+            <Route path="/my-react-portfolio/autobiography" exact component={Autobiography}/>
+            <Route path="/my-react-portfolio/education" exact component={Education}/>
+            <Route path="/my-react-portfolio/interests" exact component={Interests}/>
+            <Route path="/my-react-portfolio/skills" exact component={Skills}/>
+            <Route path="/my-react-portfolio/projects" exact component={Projects}/>
+            <Route path="/my-react-portfolio/experience" exact component={Experience}/>
+            <Route path="/my-react-portfolio/achievements" exact component={Achievements}/>
                          
         </Switch>
     </BrowserRouter>)
