@@ -1,0 +1,141 @@
+/*
+*border rdios remove
+*/
+
+.btn, .jumbotron, .nav:hover{
+    border-radius: 0px;
+}
+
+.mynav {
+    background-color: #020203;
+}
+
+.mylink{
+    color: white!important;
+    margin-left: 1rem;
+}
+
+body {
+    /* Location of the image */
+    background-image: url(imgs/unsplash1.jpg);
+    
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+    
+    /* Background image doesn't tile */
+    background-repeat: no-repeat;
+    
+    /* Background image is fixed in the viewport so that it doesn't move when 
+       the content's height is greater than the image's height */
+    background-attachment: fixed;
+    
+    /* This is what makes the background image rescale based
+       on the container's size */
+    background-size: cover;
+    
+    /* Set a background color that will be displayed
+       while the background image is loading */
+    background-color: #464646;
+  }
+
+  .footer{
+    
+    
+    padding: 1rem;
+    background-color: #020203!important ;
+    color:white;
+    bottom: 0;
+    left: 0;
+    
+    width: 100%;
+  }
+
+
+.img-Isologo {
+    padding: .25rem;
+    /* background-color: #fff; */
+    /* border: 1px solid #dee2e6; */
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+   
+}
+
+  
+.myCard {
+    background-Color: #020203!important; 
+    float: right!important;
+    
+  }
+
+.copyrigth{
+    text-align: center!important;
+}
+
+
+.transbox {
+  background-color: rgb(255, 255, 255, 0.1);
+  color: white;
+  position:relative;
+}
+
+.opacityImg{
+  position: relative;
+}
+
+.myphoto{
+  padding: 1.5rem;
+  /* background-color: #fff; */
+  /* border: 1px solid #dee2e6; */
+  border-radius: .25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.misioncard{
+ 
+  background-color: white;
+  color:black;
+}
+
+.visioncard{
+
+  background-color: #006068;
+}
+
+.valuescard{
+  
+  background-color: black;
+  color: white;
+}
+
+.imgOpacityHome{
+  opacity:0.5;
+}
+
+
+.imgOpacityHome:hover{
+  opacity:1.0;
+}
+
+.liSkill{
+  background-color: black;
+}
+.liSkill:hover{
+  background-color: #6c757d;
+}
+
+.aUdemy{
+  color: #006068;
+}
+
+.aUdemy:hover{
+  color:black;
+}
+
+.aRepo{
+  color: white
+}
+.aRepo:hover{
+  color: gray;
+}
