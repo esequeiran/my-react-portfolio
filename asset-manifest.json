@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.dd9a87f6.chunk.css",
-    "main.js": "/my-react-portfolio/static/js/main.03573f6c.chunk.js",
-    "main.js.map": "/my-react-portfolio/static/js/main.03573f6c.chunk.js.map",
+    "main.js": "/my-react-portfolio/static/js/main.800d0d48.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.800d0d48.chunk.js.map",
     "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.4369d4a6.js",
     "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.4369d4a6.js.map",
     "static/js/2.40541fb1.chunk.js": "/my-react-portfolio/static/js/2.40541fb1.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/my-react-portfolio/index.html",
     "static/css/main.dd9a87f6.chunk.css.map": "/my-react-portfolio/static/css/main.dd9a87f6.chunk.css.map",
     "static/js/2.40541fb1.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.40541fb1.chunk.js.LICENSE.txt",
-    "static/media/EvelynSequeiraResume.d1916e5d.pdf": "/my-react-portfolio/static/media/EvelynSequeiraResume.d1916e5d.pdf",
+    "static/media/EvelynSequeiraResume.4d7449ba.pdf": "/my-react-portfolio/static/media/EvelynSequeiraResume.4d7449ba.pdf",
     "static/media/fotoEvelyn.7910406f.jpeg": "/my-react-portfolio/static/media/fotoEvelyn.7910406f.jpeg",
     "static/media/fotoauto.6927e306.jpg": "/my-react-portfolio/static/media/fotoauto.6927e306.jpg",
     "static/media/gardening.186321e8.jpg": "/my-react-portfolio/static/media/gardening.186321e8.jpg",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.4369d4a6.js",
     "static/js/2.40541fb1.chunk.js",
     "static/css/main.dd9a87f6.chunk.css",
-    "static/js/main.03573f6c.chunk.js"
+    "static/js/main.800d0d48.chunk.js"
   ]
 }
