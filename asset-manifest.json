@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.dd9a87f6.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.26520fdd.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.26520fdd.chunk.js.map",
+    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.4369d4a6.js",
+    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.4369d4a6.js.map",
+    "static/js/2.40541fb1.chunk.js": "/my-react-portfolio/static/js/2.40541fb1.chunk.js",
+    "static/js/2.40541fb1.chunk.js.map": "/my-react-portfolio/static/js/2.40541fb1.chunk.js.map",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/css/main.dd9a87f6.chunk.css.map": "/my-react-portfolio/static/css/main.dd9a87f6.chunk.css.map",
+    "static/js/2.40541fb1.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.40541fb1.chunk.js.LICENSE.txt",
+    "static/media/EvelynSequeiraResume.d1916e5d.pdf": "/my-react-portfolio/static/media/EvelynSequeiraResume.d1916e5d.pdf",
+    "static/media/fotoEvelyn.7910406f.jpeg": "/my-react-portfolio/static/media/fotoEvelyn.7910406f.jpeg",
+    "static/media/fotoauto.6927e306.jpg": "/my-react-portfolio/static/media/fotoauto.6927e306.jpg",
+    "static/media/gardening.186321e8.jpg": "/my-react-portfolio/static/media/gardening.186321e8.jpg",
+    "static/media/graduacion2.919eac81.jpeg": "/my-react-portfolio/static/media/graduacion2.919eac81.jpeg",
+    "static/media/hiking.d50cc48d.jpg": "/my-react-portfolio/static/media/hiking.d50cc48d.jpg",
+    "static/media/painting.59612b7a.jpg": "/my-react-portfolio/static/media/painting.59612b7a.jpg",
+    "static/media/riding.dfdb6041.jpg": "/my-react-portfolio/static/media/riding.dfdb6041.jpg",
+    "static/media/styles.css": "/my-react-portfolio/static/media/unsplash1.dd012ecf.jpg",
+    "static/media/workout.f125f168.jpg": "/my-react-portfolio/static/media/workout.f125f168.jpg",
+    "static/media/zorvanBoard.981e989c.jpg": "/my-react-portfolio/static/media/zorvanBoard.981e989c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4369d4a6.js",
+    "static/js/2.40541fb1.chunk.js",
+    "static/css/main.dd9a87f6.chunk.css",
+    "static/js/main.26520fdd.chunk.js"
+  ]
+}
