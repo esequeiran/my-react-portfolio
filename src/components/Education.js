@@ -115,7 +115,9 @@ const Education = () => {
                                     <AccordionDetails>
                                         <Typography>
                                             01/2020 | MERN Stack React Node Ecommerce from Scratch to Deployment 
-                                            <a className="ms-2 aUdemy"  href="https://www.udemy.com/certificate/UC-f8703313-98f5-4a02-8f2c-da3fa1b6f767/">Certificate online</a>
+                                            <a                         target={"_blank"}
+                                        rel='noopener noreferrer'
+                                            className="ms-2 aUdemy"  href="https://www.udemy.com/certificate/UC-f8703313-98f5-4a02-8f2c-da3fa1b6f767/">Certificate online</a>
           </Typography>
                                     </AccordionDetails>
                                 </Accordion>

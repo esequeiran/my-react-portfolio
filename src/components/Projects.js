@@ -29,7 +29,10 @@ const Projects = () => {
                                 <Card.Text>
                                     Built in react.js, node.js and mongoDB.
                                 </Card.Text>
-                                <a className="aRepo me-2" href="https://github.com/esequeiran/ReactNodeEcommerceProj">
+                                <a
+                                                        target={"_blank"}
+                                                        rel='noopener noreferrer'
+                                className="aRepo me-2" href="https://github.com/esequeiran/ReactNodeEcommerceProj">
                                 <RiGitRepositoryFill  variant="primary" />
                                     <span className="ms-2">Repository</span>
                                   
@@ -53,7 +56,9 @@ const Projects = () => {
                                 <Card.Text>
                                 Game built in java and implemented using design patterns as adapter, decorator, factory method, memento, observer, prototype, proxy, singleton, strategy and visitor.
                                 </Card.Text>
-                                <a className="aRepo" href="https://github.com/esequeiran/LaberintoZorvanProyPatrones">
+                                <a
+                                                        target={"_blank"}
+                                                        rel='noopener noreferrer' className="aRepo" href="https://github.com/esequeiran/LaberintoZorvanProyPatrones">
                                     <RiGitRepositoryFill variant="primary" />
                                     <span className="ms-2">Repository</span>
                                 </a>
@@ -74,7 +79,10 @@ const Projects = () => {
                                 <Card.Text>
                                 Analyzed and develped a freelance web application with a customized Microsoft MVC architecture built in C#.Net, SQL Server, Framework .Net, ApiRestful, Razor, Javascript, Azure, TFS, Twillio, Sendgrid, Bootswatch and Bootstrap.
                                 </Card.Text>
-                                <a className="aRepo" href=" https://github.com/esequeiran/Proy2MDAApp">
+                                <a
+                                                        target={"_blank"}
+                                                        rel='noopener noreferrer'
+                                className="aRepo" href=" https://github.com/esequeiran/Proy2MDAApp">
                                     <RiGitRepositoryFill variant="primary" />
                                     <span className="ms-2">Repository</span>
                                 </a>
@@ -95,7 +103,10 @@ const Projects = () => {
                                 <Card.Text>
                                 App for look and post information about Costarican schools and highschools, built in html5, css, javascript, node.js and mongoDB.
                                 </Card.Text>
-                                <a className="aRepo" href="https://github.com/esequeiran/Proy1SicenApp
+                                <a
+                                                        target={"_blank"}
+                                                        rel='noopener noreferrer'
+                                className="aRepo" href="https://github.com/esequeiran/Proy1SicenApp
 ">
                                     <RiGitRepositoryFill variant="primary" />
                                     <span className="ms-2">Repository</span>
